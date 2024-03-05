@@ -1,2 +1,11 @@
-# github-actions-dashboard
-Dashboard to monitor the github actions workflow
+# Github Actions Dashboard
+
+Dashboard UI project to monitor github actions and workflows 
+
+## Getting Started
+
+## Learn More
+
+## License
+
+MIT
